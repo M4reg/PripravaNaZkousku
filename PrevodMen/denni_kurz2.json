@@ -1,0 +1,16 @@
+[
+    {
+        "zeme": "USA",
+        "mena": "Dolar",
+        "mnozstvi": 1,
+        "kod": "USD",
+        "kurz": 23.456
+    },
+    {
+        "zeme": "Velká Británie",
+        "mena": "Libra",
+        "mnozstvi": 1,
+        "kod": "GBP",
+        "kurz": 29.876
+    }
+]
